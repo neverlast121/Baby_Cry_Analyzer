@@ -6,8 +6,10 @@ The architecture of these models, such as the audio_tagging_cnn, is designed to 
 
 The process involves recording the cry, performing a Fast Fourier transform on the spectrogram of the audio, and then feeding this data into the trained machine learning model. The outcome is a prediction of the baby's problem.
 
-# Acknoldwgemet
+# Acknowledgments
+
 PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition
 [GitHub Repository](https://github.com/qiuqiangkong/audioset_tagging_cnn/tree/master)
+
 Here is an example of fine-tuning PANNs to GTZAN music classification:
 [GitHub Repository](https://github.com/qiuqiangkong/panns_transfer_to_gtzan)
