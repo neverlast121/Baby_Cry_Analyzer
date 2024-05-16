@@ -11,5 +11,5 @@ The process involves recording the cry, performing a Fast Fourier transform on t
 PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition
 [GitHub Repository](https://github.com/qiuqiangkong/audioset_tagging_cnn/tree/master)
 
-Here is an example of fine-tuning PANNs to GTZAN music classification:
+Fine-tuning PANNs to GTZAN music classification:
 [GitHub Repository](https://github.com/qiuqiangkong/panns_transfer_to_gtzan)
